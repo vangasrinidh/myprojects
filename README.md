@@ -63,3 +63,10 @@
 ## Internship Submission
 - GitHub repository: [myprojects](https://github.com/vangasrinidh/myprojects)
 - The internship brief also asks participants to share a project video on LinkedIn and tag Kodbud.
+
+- ## Open This Project in VS Code
+
+- **GitHub repository:** [View all internship projects](https://github.com/vangasrinidh/myprojects)
+- **Open in VS Code:** [Open this repository in vscode.dev](https://vscode.dev/github/vangasrinidh/myprojects)
+
+The VS Code link opens the GitHub repository in the browser-based Visual Studio Code editor. To work on the files in the desktop VS Code app, clone the repository to your computer first.
